@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+}
+
+.git {
+    height: 300px;
+    width: 300px;
+    margin: 2%;
+    text-align: center;
+    font-family: Tahoma ,sans-serif;
+    background-color: #9f9f9f;
+    border: 4px #000;
+}
+
+.git img {
+    margin: 5px;
+    height: 250px;
+    width: 250px;
+}
